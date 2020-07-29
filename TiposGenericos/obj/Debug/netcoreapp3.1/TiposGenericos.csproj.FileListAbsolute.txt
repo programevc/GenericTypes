@@ -1,0 +1,13 @@
+E:\Programe vc\Aulas\Codigo\TiposGenericos\TiposGenericos\TiposGenericos\bin\Debug\netcoreapp3.1\TiposGenericos.exe
+E:\Programe vc\Aulas\Codigo\TiposGenericos\TiposGenericos\TiposGenericos\bin\Debug\netcoreapp3.1\TiposGenericos.deps.json
+E:\Programe vc\Aulas\Codigo\TiposGenericos\TiposGenericos\TiposGenericos\bin\Debug\netcoreapp3.1\TiposGenericos.runtimeconfig.json
+E:\Programe vc\Aulas\Codigo\TiposGenericos\TiposGenericos\TiposGenericos\bin\Debug\netcoreapp3.1\TiposGenericos.runtimeconfig.dev.json
+E:\Programe vc\Aulas\Codigo\TiposGenericos\TiposGenericos\TiposGenericos\bin\Debug\netcoreapp3.1\TiposGenericos.dll
+E:\Programe vc\Aulas\Codigo\TiposGenericos\TiposGenericos\TiposGenericos\bin\Debug\netcoreapp3.1\TiposGenericos.pdb
+E:\Programe vc\Aulas\Codigo\TiposGenericos\TiposGenericos\TiposGenericos\obj\Debug\netcoreapp3.1\TiposGenericos.csprojAssemblyReference.cache
+E:\Programe vc\Aulas\Codigo\TiposGenericos\TiposGenericos\TiposGenericos\obj\Debug\netcoreapp3.1\TiposGenericos.AssemblyInfoInputs.cache
+E:\Programe vc\Aulas\Codigo\TiposGenericos\TiposGenericos\TiposGenericos\obj\Debug\netcoreapp3.1\TiposGenericos.AssemblyInfo.cs
+E:\Programe vc\Aulas\Codigo\TiposGenericos\TiposGenericos\TiposGenericos\obj\Debug\netcoreapp3.1\TiposGenericos.csproj.CoreCompileInputs.cache
+E:\Programe vc\Aulas\Codigo\TiposGenericos\TiposGenericos\TiposGenericos\obj\Debug\netcoreapp3.1\TiposGenericos.dll
+E:\Programe vc\Aulas\Codigo\TiposGenericos\TiposGenericos\TiposGenericos\obj\Debug\netcoreapp3.1\TiposGenericos.pdb
+E:\Programe vc\Aulas\Codigo\TiposGenericos\TiposGenericos\TiposGenericos\obj\Debug\netcoreapp3.1\TiposGenericos.genruntimeconfig.cache
